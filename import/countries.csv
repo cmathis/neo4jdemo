@@ -1,0 +1,239 @@
+﻿Country,CountryCode2,CountryCode3,MarketAreaCode,MarketArea,Region,Geo
+Afghanistan,AF,AFG,ME,Middle East,Northern Europe,EMEA
+Algeria,DZ,DZA,ME,Middle East,Northern Europe,EMEA
+Bahrain,BH,BHR,ME,Middle East,Northern Europe,EMEA
+Egypt,EG,EGY,ME,Middle East,Northern Europe,EMEA
+Iraq,IQ,IRQ,ME,Middle East,Northern Europe,EMEA
+Jordan,JO,JOR,ME,Middle East,Northern Europe,EMEA
+Kuwait,KW,KWT,ME,Middle East,Northern Europe,EMEA
+Lebanon,LB,LBN,ME,Middle East,Northern Europe,EMEA
+Libya,LY,LBY,ME,Middle East,Northern Europe,EMEA
+Morocco,MA,MAR,ME,Middle East,Northern Europe,EMEA
+Oman,OM,OMN,ME,Middle East,Northern Europe,EMEA
+Palestine,PS,PSE,ME,Middle East,Northern Europe,EMEA
+Qatar,QA,QAT,ME,Middle East,Northern Europe,EMEA
+Saudi Arabia,SA,SAU,ME,Middle East,Northern Europe,EMEA
+Tunisia,TN,TUN,ME,Middle East,Northern Europe,EMEA
+United Arab Emirates,AE,ARE,ME,Middle East,Northern Europe,EMEA
+Yemen,YE,YEM,ME,Middle East,Northern Europe,EMEA
+Albania,AL,ALB,MED,Mediterranean,Mediterranean,EMEA
+Kosovo,XK,XKX,MED,Mediterranean,Mediterranean,EMEA
+Macedonia,MK,MKD,MED,Mediterranean,Mediterranean,EMEA
+Montenegro,ME,MNE,MED,Mediterranean,Mediterranean,EMEA
+Andorra,AD,AND,IBE,Iberica,Southwest Europe,EMEA
+Portugal,PT,PRT,IBE,Iberica,Southwest Europe,EMEA
+Spain,ES,ESP,IBE,Iberica,Southwest Europe,EMEA
+Angola,AO,AGO,SSAI,SSA & Israel,Northern Europe,EMEA
+Benin,BJ,BEN,SSAI,SSA & Israel,Northern Europe,EMEA
+Botswana,BW,BWA,SSAI,SSA & Israel,Northern Europe,EMEA
+Burkina Faso,BF,BFA,SSAI,SSA & Israel,Northern Europe,EMEA
+Burundi,BI,BDI,SSAI,SSA & Israel,Northern Europe,EMEA
+Cameroon,CM,CMR,SSAI,SSA & Israel,Northern Europe,EMEA
+Cape Verde Island,CV,CPV,SSAI,SSA & Israel,Northern Europe,EMEA
+Centr.Afr.Rep.,CF,CAF,SSAI,SSA & Israel,Northern Europe,EMEA
+Chad,TD,TCD,SSAI,SSA & Israel,Northern Europe,EMEA
+Comoros,KM,COM,SSAI,SSA & Israel,Northern Europe,EMEA
+Congo,CG,COG,SSAI,SSA & Israel,Northern Europe,EMEA
+"Congo, Democr. Rep.",CD,COD,SSAI,SSA & Israel,Northern Europe,EMEA
+Cote D'Ivoire,CI,CIV,SSAI,SSA & Israel,Northern Europe,EMEA
+Djibouti,DJ,DJI,SSAI,SSA & Israel,Northern Europe,EMEA
+Equatorial Guin,GQ,GNQ,SSAI,SSA & Israel,Northern Europe,EMEA
+Eritrea,ER,ERI,SSAI,SSA & Israel,Northern Europe,EMEA
+Ethiopia,ET,ETH,SSAI,SSA & Israel,Northern Europe,EMEA
+Gabon,GA,GAB,SSAI,SSA & Israel,Northern Europe,EMEA
+Gambia,GM,GMB,SSAI,SSA & Israel,Northern Europe,EMEA
+Ghana,GH,GHA,SSAI,SSA & Israel,Northern Europe,EMEA
+Guinea,GN,GIN,SSAI,SSA & Israel,Northern Europe,EMEA
+Guinea-Bissau,GW,GNB,SSAI,SSA & Israel,Northern Europe,EMEA
+Israel,IL,ISR,SSAI,SSA & Israel,Northern Europe,EMEA
+Kenya,KE,KEN,SSAI,SSA & Israel,Northern Europe,EMEA
+Lesotho,LS,LSO,SSAI,SSA & Israel,Northern Europe,EMEA
+Liberia,LR,LBR,SSAI,SSA & Israel,Northern Europe,EMEA
+Madagascar,MG,MDG,SSAI,SSA & Israel,Northern Europe,EMEA
+Malawi,MW,MWI,SSAI,SSA & Israel,Northern Europe,EMEA
+Mali,ML,MLI,SSAI,SSA & Israel,Northern Europe,EMEA
+Mauritania,MR,MRT,SSAI,SSA & Israel,Northern Europe,EMEA
+Mauritius,MU,MUS,SSAI,SSA & Israel,Northern Europe,EMEA
+Mayotte,YT,MYT,SSAI,SSA & Israel,Northern Europe,EMEA
+Mozambique,MZ,MOZ,SSAI,SSA & Israel,Northern Europe,EMEA
+Namibia,NA,NAM,SSAI,SSA & Israel,Northern Europe,EMEA
+Niger,NE,NER,SSAI,SSA & Israel,Northern Europe,EMEA
+Nigeria,NG,NGA,SSAI,SSA & Israel,Northern Europe,EMEA
+Rwanda,RW,RWA,SSAI,SSA & Israel,Northern Europe,EMEA
+"S. Tome, Principe",ST,STP,SSAI,SSA & Israel,Northern Europe,EMEA
+Senegal,SN,SEN,SSAI,SSA & Israel,Northern Europe,EMEA
+Seychelles,SC,SYC,SSAI,SSA & Israel,Northern Europe,EMEA
+Sierra Leone,SL,SLE,SSAI,SSA & Israel,Northern Europe,EMEA
+Somalia,SO,SOM,SSAI,SSA & Israel,Northern Europe,EMEA
+South Africa,ZA,ZAF,SSAI,SSA & Israel,Northern Europe,EMEA
+South Sudan,SS,SSD,SSAI,SSA & Israel,Northern Europe,EMEA
+Swaziland,SZ,SWZ,SSAI,SSA & Israel,Northern Europe,EMEA
+Tanzania,TZ,TZA,SSAI,SSA & Israel,Northern Europe,EMEA
+Togo,TG,TGO,SSAI,SSA & Israel,Northern Europe,EMEA
+Uganda,UG,UGA,SSAI,SSA & Israel,Northern Europe,EMEA
+Western Sahara,EH,ESH,SSAI,SSA & Israel,Northern Europe,EMEA
+Zambia,ZM,ZMB,SSAI,SSA & Israel,Northern Europe,EMEA
+Zimbabwe,ZW,ZWE,SSAI,SSA & Israel,Northern Europe,EMEA
+Armenia,AM,ARM,RCIS,Russia & CIS,Central Europe,EMEA
+Azerbaijan,AZ,AZE,RCIS,Russia & CIS,Central Europe,EMEA
+Belarus,BY,BLR,RCIS,Russia & CIS,Central Europe,EMEA
+Georgia,GE,GEO,RCIS,Russia & CIS,Central Europe,EMEA
+Kazakhstan,KZ,KAZ,RCIS,Russia & CIS,Central Europe,EMEA
+Kyrgyzstan,KG,KGZ,RCIS,Russia & CIS,Central Europe,EMEA
+Moldova,MD,MDA,RCIS,Russia & CIS,Central Europe,EMEA
+Russian Federation,RU,RUS,RCIS,Russia & CIS,Central Europe,EMEA
+Tajikistan,TJ,TJK,RCIS,Russia & CIS,Central Europe,EMEA
+Turkmenistan,TM,TKM,RCIS,Russia & CIS,Central Europe,EMEA
+Ukraine,UA,UKR,RCIS,Russia & CIS,Central Europe,EMEA
+Uzbekistan,UZ,UZB,RCIS,Russia & CIS,Central Europe,EMEA
+Austria,AT,AUT,GER,Germany,Central Europe,EMEA
+Germany,DE,DEU,GER,Germany,Central Europe,EMEA
+Belgium,BE,BEL,BEN,Benelux,Southwest Europe,EMEA
+Luxembourg,LU,LUX,BEN,Benelux,Southwest Europe,EMEA
+Netherlands,NL,NLD,BEN,Benelux,Southwest Europe,EMEA
+Bosnia & Herzegovina,BA,BIH,EE,Eastern Europe,Central Europe,EMEA
+Bulgaria,BG,BGR,EE,Eastern Europe,Central Europe,EMEA
+Croatia,HR,HRV,EE,Eastern Europe,Central Europe,EMEA
+Cyprus,CY,CYP,EE,Eastern Europe,Central Europe,EMEA
+Czech Republic,CZ,CZE,EE,Eastern Europe,Central Europe,EMEA
+Estonia,EE,EST,EE,Eastern Europe,Central Europe,EMEA
+Greece,GR,GRC,EE,Eastern Europe,Central Europe,EMEA
+Hungary,HU,HUN,EE,Eastern Europe,Central Europe,EMEA
+Latvia,LV,LVA,EE,Eastern Europe,Central Europe,EMEA
+Lithuania,LT,LTU,EE,Eastern Europe,Central Europe,EMEA
+Malta,MT,MLT,EE,Eastern Europe,Central Europe,EMEA
+Poland,PL,POL,EE,Eastern Europe,Central Europe,EMEA
+Romania,RO,ROU,EE,Eastern Europe,Central Europe,EMEA
+Serbia,RS,SRB,EE,Eastern Europe,Central Europe,EMEA
+Slovakia,SK,SVK,EE,Eastern Europe,Central Europe,EMEA
+Slovenia,SI,SVN,EE,Eastern Europe,Central Europe,EMEA
+Turkey,TR,TUR,EE,Eastern Europe,Central Europe,EMEA
+Denmark,DK,DNK,NORD,Nordic,Northern Europe,EMEA
+Faroe Island,FO,FRO,NORD,Nordic,Northern Europe,EMEA
+Finland,FI,FIN,NORD,Nordic,Northern Europe,EMEA
+Greenland,GL,GRL,NORD,Nordic,Northern Europe,EMEA
+Iceland,IS,ISL,NORD,Nordic,Northern Europe,EMEA
+Norway,NO,NOR,NORD,Nordic,Northern Europe,EMEA
+Svalbard & Jan Mayen,SJ,SJM,NORD,Nordic,Northern Europe,EMEA
+Sweden,SE,SWE,NORD,Nordic,Northern Europe,EMEA
+France,FR,FRA,FRA,France,Southwest Europe,EMEA
+Monaco,MC,MCO,FRA,France,Southwest Europe,EMEA
+Reunion (French),RE,REU,FRA,France,Southwest Europe,EMEA
+Gibralter,GI,GIB,UK,United Kingdom,Northern Europe,EMEA
+Great Britain,GB,GBR,UK,United Kingdom,Northern Europe,EMEA
+Ireland,IE,IRL,UK,United Kingdom,Northern Europe,EMEA
+Isle of Man,IM,IMN,UK,United Kingdom,Northern Europe,EMEA
+Jersey,JE,JEY,UK,United Kingdom,Northern Europe,EMEA
+Italy,IT,ITA,ITA,Italy,Southwest Europe,EMEA
+San Marino,SM,SMR,ITA,Italy,Southwest Europe,EMEA
+Vatican City State,VA,VAS,ITA,Italy,Southwest Europe,EMEA
+Liechtenstein,LI,LIE,SWI,Switzerland,Central Europe,EMEA
+Switzerland,CH,CHE,SWI,Switzerland,Central Europe,EMEA
+Japan,JP,JPN,JPN,Japan,Japan,JAPAN
+Brunei,BN,BRN,SEA,Southeast Asia,SEA,APAC
+Cambodia,KH,KHM,SEA,Southeast Asia,SEA,APAC
+China,CN,CHN,SEA,China,Greater China,APAC
+Christmas Island,CX,CXR,SEA,ANZ,ANZ,APAC
+Indonesia,ID,IDN,SEA,Southeast Asia,SEA,APAC
+Lao People's Demo.,LA,LAO,SEA,Southeast Asia,SEA,APAC
+Malaysia,MY,MYS,SEA,Southeast Asia,SEA,APAC
+Micronesia,FM,FSM,SEA,Southeast Asia,SEA,APAC
+Myanmar,MM,MMR,SEA,Southeast Asia,SEA,APAC
+Northern Mariana Is.,MP,MNP,SEA,Southeast Asia,SEA,APAC
+Pakistan,PK,PAK,SEA,Southeast Asia,SEA,APAC
+Philippines,PH,PHL,SEA,Southeast Asia,SEA,APAC
+Singapore,SG,SGP,SEA,Southeast Asia,SEA,APAC
+Thailand,TH,THA,SEA,Southeast Asia,SEA,APAC
+Timor-Leste,TL,TLS,SEA,Southeast Asia,SEA,APAC
+Vietnam,VN,VNM,SEA,Southeast Asia,SEA,APAC
+American Samoa,AS,ASM,ANZ,ANZ,ANZ,APAC
+Australia,AU,AUS,ANZ,ANZ,ANZ,APAC
+British Ind Ocn Tr,IO,IOT,ANZ,ANZ,ANZ,APAC
+Cocos Islands,CC,CCK,ANZ,ANZ,ANZ,APAC
+Cook Islands,CK,COK,ANZ,ANZ,ANZ,APAC
+Fiji,FJ,FJI,ANZ,ANZ,ANZ,APAC
+Kiribati,KI,KIR,ANZ,ANZ,ANZ,APAC
+Marshall Islands,MH,MHL,ANZ,ANZ,ANZ,APAC
+Nauru,NR,NRU,ANZ,ANZ,ANZ,APAC
+New Caledonia,NC,NCL,ANZ,ANZ,ANZ,APAC
+New Zealand,NZ,NZL,ANZ,ANZ,ANZ,APAC
+Niue,NU,NIU,ANZ,ANZ,ANZ,APAC
+Norfolk Island,NF,NFK,ANZ,ANZ,ANZ,APAC
+Papua New Guinea,PG,PNG,ANZ,ANZ,ANZ,APAC
+Pitcairn,PN,PCN,ANZ,ANZ,ANZ,APAC
+Polynesia (French),PF,PYF,ANZ,ANZ,ANZ,APAC
+Republic -Palau,PW,PLW,ANZ,ANZ,ANZ,APAC
+Samoa,WS,WSM,ANZ,ANZ,ANZ,APAC
+Solomon Islands,SB,SLB,ANZ,ANZ,ANZ,APAC
+Tokelau,TK,TKL,ANZ,ANZ,ANZ,APAC
+Tonga,TO,TON,ANZ,ANZ,ANZ,APAC
+Tuvalu,TV,TUV,ANZ,ANZ,ANZ,APAC
+Vanuatu,VU,VUT,ANZ,ANZ,ANZ,APAC
+Wallis and Futuna,WF,WLF,ANZ,ANZ,ANZ,APAC
+Bangladesh,BD,BGD,IN,India,India,APAC
+Bhutan,BT,BTN,IN,India,India,APAC
+India,IN,IND,IN,India,India,APAC
+Maldives,MV,MDV,IN,India,India,APAC
+Nepal,NP,NPL,IN,India,India,APAC
+Sri Lanka,LK,LKA,IN,India,India,APAC
+Hong Kong,HK,HKG,HKT,Hong Kong & Taiwan,Greater China,APAC
+Macao,MO,MAC,HKT,Hong Kong & Taiwan,Greater China,APAC
+Taiwan,TW,TWN,HKT,Hong Kong & Taiwan,Greater China,APAC
+"Korea, Republic of",KR,KOR,KOR,Korea,Korea,APAC
+Mongolia,MN,MNG,CHN,China,Greater China,APAC
+Canada,CA,CAN,CAN,Canada,North America,NA
+St. Pier. Miquel.,PM,SPM,CAN,Canada,North America,NA
+Guam,GU,GUM,US,United States,North America,NA
+United States,US,USA,US,United States,North America,NA
+US Virgin Islands,VI,VIR,US,United States,North America,NA
+Anguilla,AI,AIA,SLAM,Strat. Latin America,Latin America,LATAM
+Antarctica,AQ,ATA,SLAM,Strat. Latin America,Latin America,LATAM
+Antigua and Barbuda,AG,ATG,SLAM,Strat. Latin America,Latin America,LATAM
+Argentina,AR,ARG,SLAM,Strat. Latin America,Latin America,LATAM
+Aruba,AW,ABW,SLAM,Strat. Latin America,Latin America,LATAM
+Bahamas,BS,BHS,SLAM,Strat. Latin America,Latin America,LATAM
+Barbados,BB,BRB,SLAM,Strat. Latin America,Latin America,LATAM
+Belize,BZ,BLZ,SLAM,Strat. Latin America,Latin America,LATAM
+Bermuda,BM,BMU,SLAM,Strat. Latin America,Latin America,LATAM
+Bolivia,BO,BOL,SLAM,Strat. Latin America,Latin America,LATAM
+Cayman Islands,KY,CYM,SLAM,Strat. Latin America,Latin America,LATAM
+Chile,CL,CHL,SLAM,Strat. Latin America,Latin America,LATAM
+Colombia,CO,COL,SLAM,Strat. Latin America,Latin America,LATAM
+Costa Rica,CR,CRI,SLAM,Strat. Latin America,Latin America,LATAM
+Curacao,CW,CUW,SLAM,Strat. Latin America,Latin America,LATAM
+Dominica,DM,DMA,SLAM,Strat. Latin America,Latin America,LATAM
+Dominican Republic,DO,DOM,SLAM,Strat. Latin America,Latin America,LATAM
+Ecuador,EC,ECU,SLAM,Strat. Latin America,Latin America,LATAM
+El Salvador,SV,SLV,SLAM,Strat. Latin America,Latin America,LATAM
+Falkland Islands,FK,FLK,SLAM,Strat. Latin America,Latin America,LATAM
+French Guiana,GF,GUF,SLAM,Strat. Latin America,Latin America,LATAM
+Grenada,GD,GRD,SLAM,Strat. Latin America,Latin America,LATAM
+Guadeloupe,GP,GLP,SLAM,Strat. Latin America,Latin America,LATAM
+Guatemala,GT,GTM,SLAM,Strat. Latin America,Latin America,LATAM
+Guyana,GY,GUY,SLAM,Strat. Latin America,Latin America,LATAM
+Haiti,HT,HTI,SLAM,Strat. Latin America,Latin America,LATAM
+Honduras,HN,HND,SLAM,Strat. Latin America,Latin America,LATAM
+Jamaica,JM,JAM,SLAM,Strat. Latin America,Latin America,LATAM
+Martinique,MQ,MTQ,SLAM,Strat. Latin America,Latin America,LATAM
+Montserrat,MS,MSR,SLAM,Strat. Latin America,Latin America,LATAM
+Netherlands Antilles,AN,ANT,SLAM,Strat. Latin America,Latin America,LATAM
+Nicaragua,NI,NIC,SLAM,Strat. Latin America,Latin America,LATAM
+Panama,PA,PAN,SLAM,Strat. Latin America,Latin America,LATAM
+Paraguay,PY,PRY,SLAM,Strat. Latin America,Latin America,LATAM
+Peru,PE,PER,SLAM,Strat. Latin America,Latin America,LATAM
+Puerto Rico,PR,PRI,SLAM,Strat. Latin America,Latin America,LATAM
+SGeorgia & SS Isl.,GS,SGS,SLAM,Strat. Latin America,Latin America,LATAM
+Sint Maarten,SX,SXM,SLAM,Strat. Latin America,Latin America,LATAM
+St. Helena,SH,SHN,SLAM,Strat. Latin America,Latin America,LATAM
+St. Kitts and Nevis,KN,KNA,SLAM,Strat. Latin America,Latin America,LATAM
+St. Lucia,LC,LCA,SLAM,Strat. Latin America,Latin America,LATAM
+St. Vincent,VC,VCT,SLAM,Strat. Latin America,Latin America,LATAM
+Suriname,SR,SUR,SLAM,Strat. Latin America,Latin America,LATAM
+Trinidad and Tobago,TT,TTO,SLAM,Strat. Latin America,Latin America,LATAM
+Turks&Caicos Island,TC,TCA,SLAM,Strat. Latin America,Latin America,LATAM
+Uruguay,UY,URY,SLAM,Strat. Latin America,Latin America,LATAM
+US Minor Outly. Isl.,UM,UMI,SLAM,Strat. Latin America,Latin America,LATAM
+Venezuela,VE,VEN,SLAM,Strat. Latin America,Latin America,LATAM
+Virgin Islands(Brit),VG,VGB,SLAM,Strat. Latin America,Latin America,LATAM
+Brazil,BR,BRA,BRZ,Brazil,Latin America,LATAM
+Mexico,MX,MEX,MEX,Mexico,Latin America,LATAM
